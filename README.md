@@ -11,6 +11,6 @@ A simple, clean UI backed by a powerful web engine, the perfect productivity pow
 >Do not attempt to search in the URL bar. It **WILL** crash.
 
 >[!NOTE]
->Tabs do not work properly as of v. 1.2.0.0. Only use the default tab.
+>Tabs do not work properly as of v. 1.2.0.3. Only use the default tab.
 
 Microsoftware [![logo](https://github.com/user-attachments/assets/1c27cff9-8426-4433-8a24-878de0eda845)](https://microsoftwarestudios.github.io)
